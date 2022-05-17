@@ -7,3 +7,5 @@ Including:
 - basic chagnes
 - stage, stash on local machine
 - branch managing
+
+The Notebook has past to "https://twilightspar.github.io/Course-Note/post/GitSetup.html"
